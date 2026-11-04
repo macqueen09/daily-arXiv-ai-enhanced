@@ -25,6 +25,8 @@ You can modify it in `.github/workflows/run.yml`
 9. If you wish to modify the content in `README.md`, do not directly edit README.md. You should edit `template.md`.
 
 # Content
+[2026-11-04](data/2026-11-04.md)
+
 [2026-11-03](data/2026-11-03.md)
 
 [2026-11-02](data/2026-11-02.md)
